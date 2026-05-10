@@ -63,7 +63,7 @@
 ## 📬 Let's Connect:
 
 - 💼 **LinkedIn:** [Abhay Raj Yadav](https://www.linkedin.com/in/abhay-raj-yadav-32576739a/)
-- 📧 **Email:** abhayroyal56@gmail.com
+- 📧 **Email:** abhayraj0302@gmail.com 
 - 🐙 **GitHub:** [Abhayraj0302](https://github.com/Abhayraj0302)
 
 ---
