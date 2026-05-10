@@ -1,35 +1,41 @@
 # Hi there, I'm AbhayRaj! 👋
 
-🌟 **Welcome to my digital workspace!** As a passionate Android developer who loves building real-world apps from scratch, I enjoy turning ideas into polished mobile experiences using Jetpack Compose and Kotlin. I believe the best way to learn is by building — one project at a time.
+🌟 **Welcome to my GitHub!** I'm a passionate and self-driven developer currently pursuing my journey in mobile application development. I love turning ideas into real, functional products — learning fast, building consistently and always pushing to write better code.
 
 ---
 
-## 🚀 What I Do:
+## 🚀 About Me:
 
-**Android Development:**
-- Building modern Android applications using Jetpack Compose with clean architecture and reusable components.
-
-**UI/UX Focused:**
-- Crafting polished, intuitive mobile interfaces with attention to detail, animations and smooth user experiences.
-
-**Problem Solver:**
-- Learning by doing — debugging crashes, reading Logcat and figuring things out one error at a time.
+- 🎓 Undergraduate student passionate about building real-world mobile applications
+- 📱 Focused on Android development with modern tools and industry-standard practices
+- 🔥 Strong believer in learning by doing — every project teaches something new
+- 🌱 Currently levelling up in MVVM architecture, REST APIs and local databases
+- 💡 Always exploring new technologies and best practices in mobile development
+- 🤝 Open to internship opportunities, collaborations and exciting projects
 
 ---
 
-## 🧠 Code Skills:
+## 🧠 Technical Skills:
 
-- **Jetpack Compose:** Building modern declarative Android UIs with reusable composables and state hoisting.
-- **Kotlin:** Sealed classes, data classes, coroutines and Kotlin-first Android development.
-- **Navigation Component:** Multi-screen apps with type-safe navigation and animated transitions.
-- **State Management:** State hoisting, SnapshotStateList, rememberSaveable across screens.
-- **Room Database:** Local data persistence with DAO, Entity and Database layers.
-- **Retrofit:** REST API integration with public APIs.
-- **MVVM Architecture:** ViewModel and clean separation of concerns.
+**Mobile Development**
+- Jetpack Compose, Android SDK, Navigation Component
+- MVVM Architecture, State Management, ViewModel
+
+**Languages**
+- Kotlin, c++, Python (basics)
+
+**Tools & Libraries**
+- Retrofit, Room Database, Coil, Coroutines
+- Git, GitHub, Android Studio
+
+**Concepts**
+- REST API Integration, Local Data Persistence
+- Reusable Component Design, State Hoisting
+- Clean Architecture, Lifecycle Management
 
 ---
 
-## 🛠️ Languages and Tools I Love Working With:
+## 🛠️ Languages and Tools:
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -40,25 +46,30 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Room](https://img.shields.io/badge/Room%20DB-4285F4?style=for-the-badge&logo=android&logoColor=white)
 ![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white)
+![Kotlin Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ---
 
-## 🌱 What I'm Currently Exploring:
+## 🌱 Currently Exploring:
 
-- MVVM Architecture with ViewModel and StateFlow
-- REST API integration with Retrofit
-- Room Database for local data persistence
-- Kotlin Coroutines for async operations
+- Advanced MVVM with ViewModel and StateFlow
+- REST API integration with Retrofit and OkHttp
+- Room Database with DAO patterns
+- Kotlin Coroutines and Flow for async operations
+- Dependency Injection with Hilt
 
 ---
 
+## 📬 Let's Connect:
 
-## 📬 How to Reach Me:
-
-- 📧 **Email:** abhayroyal56@gmail.com
 - 💼 **LinkedIn:** [Abhay Raj Yadav](https://www.linkedin.com/in/abhay-raj-yadav-32576739a/)
+- 📧 **Email:** abhayroyal56@gmail.com
 - 🐙 **GitHub:** [Abhayraj0302](https://github.com/Abhayraj0302)
 
 ---
 
-⭐ **Open to Android internship opportunities!**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhayraj0302&color=7F77DD&style=flat-square&label=Profile+Views" />
+</p>
+
+⭐ **Actively looking for Android development internship opportunities!**
