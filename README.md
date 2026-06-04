@@ -65,24 +65,28 @@ I learn by shipping. Every project I build pushes me to understand something dee
 
 ## 📐 How I Build
 
-```text
-Architecture    →  Scalable · Maintainable · Modular
-User Experience →  Responsive · Intuitive · Accessible
-Code Quality    →  Clean · Reusable · Testable
-Data Handling   →  Reliable · Efficient · Consistent
-Performance     →  Smooth · Optimized · Resource-Aware
+```
+UI Layer       →  Jetpack Compose · Navigation Component · State Hoisting
+Domain Layer   →  ViewModels · UseCases · StateFlow / LiveData
+Data Layer     →  Retrofit + OkHttp (remote) · Room + DAO (local) · Repository pattern
+DI             →  Hilt
+Async          →  Kotlin Coroutines · Flow
+Image Loading  →  Coil
 ```
 
-I focus on building applications that are easy to maintain, scale, and extend while delivering a seamless user experience.
+I follow clean architecture principles so every layer has a single responsibility and the codebase stays navigable as it grows.
 
 ---
 
 ## 🌱 Currently Levelling Up
 
-* 🏗️ Modern application architecture and software design
-* 🚀 Building scalable, production-ready applications
-* 🧠 Problem-solving and software engineering fundamentals
+- **Hilt** — scoped dependency injection across ViewModels, Repositories, and Workers
+- **Kotlin Flow** — cold vs hot streams, combining flows, handling errors reactively
+- **OkHttp interceptors** — auth headers, logging, retry logic
+- **Room migrations** — schema versioning without data loss
+- **Competitive Programming** — sharpening algorithmic thinking in C++ (LeetCode)
 
+---
 
 ## 📊 GitHub Stats
 
@@ -106,3 +110,6 @@ I'm actively looking for **Android development internship opportunities**. If yo
 - 🐙 [github.com/Abhayraj0302](https://github.com/Abhayraj0302)
 
 <p align="center"><i>"Build it. Break it. Learn. Repeat."</i></p>
+
+
+modifiy currnetly lvlup nd how i build section ,i diont wnat to be specfic towar any term , just sum up whole morderns app
