@@ -1,8 +1,11 @@
-<h1 align="center">Hey, I'm Abhay Raj 👋</h1>
+<h1 align="center">Hi, I'm Abhay 👋</h1>
 
 <p align="center">
-  <b>Android Developer · Kotlin Enthusiast · Builder at heart</b><br/>
-  <i>Turning ideas into real, functional mobile experiences — one commit at a time.</i>
+  <b>Android Developer • Kotlin Enthusiast • Problem Solver</b>
+</p>
+
+<p align="center">
+  Building modern, scalable, and user-friendly applications while continuously learning software engineering and mobile development.
 </p>
 
 <p align="center">
@@ -10,106 +13,93 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:abhayraj0302@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Abhayraj0302">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Abhayraj0302&color=7F52FF&style=for-the-badge&label=Profile+Views"/>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
-I'm an undergraduate developer who loves building mobile apps that actually solve problems. My focus is Android — writing clean Kotlin, designing reactive UIs with Jetpack Compose, and wiring up solid architecture so apps don't fall apart at scale.
+* 🎓 Undergraduate Software Developer
+* 📱 Building modern Android applications
+* 🏗️ Interested in scalable architecture and clean code
+* 🧠 Learning through projects and problem-solving
+* 🤝 Open to internships and collaborations
 
-I learn by shipping. Every project I build pushes me to understand something deeper — whether that's state management, async flows, or how to structure a codebase that doesn't become a nightmare six months later.
+---
 
-- 📱 Building production-quality Android apps with modern Jetpack libraries
-- 🏗️ Obsessed with clean architecture — MVVM, separation of concerns, testable code
-- ⚡ Comfortable with the full local + remote data stack: Room, Retrofit, Coroutines, Flow
-- 🧩 Currently going deep on Dependency Injection with Hilt and reactive patterns with StateFlow
-- 🔧 Also tinkering with C++ for algorithmic problem-solving and low-level thinking
-- 🤝 Open to internships, collaborations, and anything that ships
+## ⚡ Developer Mindset
+
+```text
+🏗️ Architecture    → Scalable • Maintainable • Modular
+🎨 User Experience → Responsive • Intuitive • Accessible
+🧩 Code Quality    → Clean • Reusable • Testable
+🚀 Performance     → Efficient • Reliable • Optimized
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Mobile
+### Mobile Development
+
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Android SDK](https://img.shields.io/badge/Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### Development Tools
+
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-
-### Architecture & Async
-![MVVM](https://img.shields.io/badge/MVVM-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![StateFlow](https://img.shields.io/badge/StateFlow-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Hilt](https://img.shields.io/badge/Hilt-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-### Data & Networking
-![Room](https://img.shields.io/badge/Room%20DB-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Coil](https://img.shields.io/badge/Coil-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### Languages & Tools
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
+### Backend & Data
 
-## 📐 How I Build
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Room](https://img.shields.io/badge/Room%20DB-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white)
 
-```
-UI Layer       →  Jetpack Compose · Navigation Component · State Hoisting
-Domain Layer   →  ViewModels · UseCases · StateFlow / LiveData
-Data Layer     →  Retrofit + OkHttp (remote) · Room + DAO (local) · Repository pattern
-DI             →  Hilt
-Async          →  Kotlin Coroutines · Flow
-Image Loading  →  Coil
-```
+### Languages
 
-I follow clean architecture principles so every layer has a single responsibility and the codebase stays navigable as it grows.
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-## 🌱 Currently Levelling Up
+## 🌱 Currently Exploring
 
-- **Hilt** — scoped dependency injection across ViewModels, Repositories, and Workers
-- **Kotlin Flow** — cold vs hot streams, combining flows, handling errors reactively
-- **OkHttp interceptors** — auth headers, logging, retry logic
-- **Room migrations** — schema versioning without data loss
-- **Competitive Programming** — sharpening algorithmic thinking in C++ (LeetCode)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhayraj0302&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhayraj0302&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhayraj0302&theme=tokyonight&hide_border=true"/>
-</p>
+* Modern Application Architecture
+* Software Engineering Best Practices
+* Scalable System Design
+* Performance Optimization
+* Problem Solving & DSA
 
 ---
 
 ## 📬 Let's Connect
 
-I'm actively looking for **Android development internship opportunities**. If you're building something interesting or just want to talk mobile dev, I'm always up for it.
+<p align="center">
 
-- 💼 [LinkedIn — Abhay Raj Yadav](https://www.linkedin.com/in/abhay-raj-yadav-32576739a/)
-- 📧 abhayraj0302@gmail.com
-- 🐙 [github.com/Abhayraj0302](https://github.com/Abhayraj0302)
+| Platform | Handle | Action |
+|----------|--------|--------|
+| 💼 LinkedIn | Abhay Raj Yadav | <a href="https://www.linkedin.com/in/abhay-raj-yadav-32576739a/"><img src="https://img.shields.io/badge/Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a> |
+| 📧 Email | abhayraj0302@gmail.com | <a href="mailto:abhayraj0302@gmail.com"><img src="https://img.shields.io/badge/Say%20Hi-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> |
+| 🐙 GitHub | @Abhayraj0302 | <a href="https://github.com/Abhayraj0302"><img src="https://img.shields.io/badge/Follow-181717?style=flat-square&logo=github&logoColor=white"/></a> |
 
-<p align="center"><i>"Build it. Break it. Learn. Repeat."</i></p>
+</p>
 
+<br/>
 
-modifiy currnetly lvlup nd how i build section ,i diont wnat to be specfic towar any term , just sum up whole morderns app
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhayraj0302&color=7F52FF&style=flat-square&label=Profile+Views"/>
+</p>
+
+<p align="center">
+  <b>⭐ Actively looking for Android Development Internship Opportunities</b><br/>
+  <i>DM me on LinkedIn or drop a mail — always happy to talk.</i>
+</p>
